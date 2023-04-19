@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scene/Code_Test.unity
+    guid: a0247db32284e79419274247ab8175c3
+  - enabled: 1
+    path: Assets/Scene/startmenu.unity
+    guid: 78b1da36dcab0b7469a4050dd2db99c0
+  - enabled: 1
+    path: Assets/Scene/1.unity
+    guid: 2112099e8cdf7476d887868b6782baf8
+  - enabled: 1
+    path: Assets/Scene/CS_1.unity
+    guid: 385b1ae9b11ebae4ca51fc9b84c49e54
+  - enabled: 1
+    path: Assets/Scene/stage-1.unity
+    guid: a21bacc68117d4f0babbb3fe093cf442
+  - enabled: 1
+    path: Assets/Scene/CS_1to2-1.unity
+    guid: bc07fbae156ef9a4ba827bdecea6d057
+  - enabled: 1
+    path: Assets/Scene/stage2-1.unity
+    guid: 5b810144db4a04c18b7512fe0e71b065
+  - enabled: 1
+    path: Assets/Scene/CS_2-1toB1.unity
+    guid: 9522ee9fb7095934f9bfca09b2393eea
+  - enabled: 1
+    path: Assets/Scene/boss-1.unity
+    guid: 3e41508c06ed8a14eabe86d86c5ac8ff
+  - enabled: 1
+    path: Assets/Scene/CS_B1to2-2.unity
+    guid: 10177d08a11a6b74792fb00b7c2ae56d
+  - enabled: 1
+    path: Assets/Scene/stage2-2.unity
+    guid: eb76834bf7763314f9bbd1144a8d2ee5
+  - enabled: 1
+    path: Assets/Scene/CS_2-2toB2.unity
+    guid: 824caa90a0a2f154d8f58a62cbb6d8dd
+  - enabled: 1
+    path: Assets/Scene/boss-2.unity
+    guid: c607f6b77073e534494f8b2468d9ac7f
+  - enabled: 1
+    path: Assets/Scene/CS_B2to3.unity
+    guid: d9abecd5ab1996342a90657919f3e616
+  - enabled: 1
+    path: Assets/Scene/boss-3.unity
+    guid: e5299cc64da11f2439020d0076d9f7fd
+  - enabled: 1
+    path: Assets/Scene/CS_B3end.unity
+    guid: a2126202e92b4e641a04b1f1ec49d327
+  - enabled: 1
+    path: Assets/Scene/CS_base.unity
+    guid: d563d967c502b264eaf9cfc070dc9d8a
+  - enabled: 1
+    path: Assets/Scene/Base.unity
+    guid: 0b7e8c55e7822af4a8d402204e9de0b4
+  - enabled: 1
+    path: Assets/Scene/vendingmachine.unity
+    guid: 804cd434def06584b94f0aa666530379
+  - enabled: 1
+    path: Assets/Scene/breadshop.unity
+    guid: f484d507f4f458b47b2b19899d24a6a7
+  - enabled: 1
+    path: Assets/Scene/map.unity
+    guid: 1e00f184581ba514ca973e8e620b3d30
+  - enabled: 1
+    path: Assets/Scene/Locker.unity
+    guid: 18f5aa7a6714e50449765ef3460ad761
+  - enabled: 0
+    path: Assets/Scene/forvideo.unity
+    guid: 4549a9825097f487dbec04e5eacd95ea
